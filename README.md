@@ -25,7 +25,7 @@ Men Amirbek, dasturchiman va turli texnologiyalar bo‘yicha ishlashni yaxshi ko
 
 ### 📊 GitHub Statistikalarim:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=softwareuz&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=americooo&show_icons=true&theme=radical)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=softwareuz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
